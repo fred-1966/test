@@ -11,7 +11,7 @@
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_1YT_0FnpEe-ybdhBP5pzDQ">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']"/>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_2fyIwFnqEe-ybdhBP5pzDQ" name="[OAIB] Root Operational Activity" repPath="#_2fw6oFnqEe-ybdhBP5pzDQ" changeId="1723605071032">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_2fyIwFnqEe-ybdhBP5pzDQ" name="[OAIB] Root Operational Activity" repPath="#_2fw6oFnqEe-ybdhBP5pzDQ" changeId="1723983238235">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']/@ownedRepresentations[name='Operational%20Activity%20Interaction%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.oa:OperationalActivity" href="Lib%201.capella#d9db0018-c1bc-4642-9f43-5fc9aaa98b77"/>
       </ownedRepresentationDescriptors>
@@ -39,7 +39,16 @@
             <styles xmi:type="notation:FilteringStyle" xmi:id="_220vw1nqEe-ybdhBP5pzDQ"/>
           </children>
           <styles xmi:type="notation:ShapeStyle" xmi:id="_220IsVnqEe-ybdhBP5pzDQ" fontName=".AppleSystemUIFont" fontHeight="8"/>
-          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_220IslnqEe-ybdhBP5pzDQ" x="420" y="150"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_220IslnqEe-ybdhBP5pzDQ" x="160" y="80"/>
+        </children>
+        <children xmi:type="notation:Node" xmi:id="_WKY3cF1bEe-wvrQ9JCydxA" type="2002" element="_WKMqMF1bEe-wvrQ9JCydxA">
+          <children xmi:type="notation:Node" xmi:id="_WKdI4F1bEe-wvrQ9JCydxA" type="5006"/>
+          <children xmi:type="notation:Node" xmi:id="_WKdI4V1bEe-wvrQ9JCydxA" type="7001">
+            <styles xmi:type="notation:SortingStyle" xmi:id="_WKdI4l1bEe-wvrQ9JCydxA"/>
+            <styles xmi:type="notation:FilteringStyle" xmi:id="_WKdI411bEe-wvrQ9JCydxA"/>
+          </children>
+          <styles xmi:type="notation:ShapeStyle" xmi:id="_WKY3cV1bEe-wvrQ9JCydxA" fontName=".AppleSystemUIFont" fontHeight="8"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_WKY3cl1bEe-wvrQ9JCydxA" x="450" y="170"/>
         </children>
         <styles xmi:type="notation:DiagramStyle" xmi:id="_2fz98lnqEe-ybdhBP5pzDQ"/>
       </data>
@@ -54,6 +63,17 @@
       <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
       <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
       <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_22xFYVnqEe-ybdhBP5pzDQ" borderSize="1" borderSizeComputationExpression="1" borderColor="91,64,64" backgroundStyle="GradientTopToBottom" backgroundColor="255,255,197" foregroundColor="247,218,116">
+        <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']/@ownedRepresentations[name='Operational%20Activity%20Interaction%20Blank']/@defaultLayer/@containerMappings[name='OAIB%20Operational%20Activity']/@style"/>
+      </ownedStyle>
+      <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']/@ownedRepresentations[name='Operational%20Activity%20Interaction%20Blank']/@defaultLayer/@containerMappings[name='OAIB%20Operational%20Activity']"/>
+    </ownedDiagramElements>
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_WKMqMF1bEe-wvrQ9JCydxA" name="OperationalActivity 2">
+      <target xmi:type="org.polarsys.capella.core.data.oa:OperationalActivity" href="Lib%201.capella#ec97d05f-d781-405b-90e2-43b3e89133a7"/>
+      <semanticElements xmi:type="org.polarsys.capella.core.data.oa:OperationalActivity" href="Lib%201.capella#ec97d05f-d781-405b-90e2-43b3e89133a7"/>
+      <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+      <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+      <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+      <ownedStyle xmi:type="diagram:FlatContainerStyle" uid="_WKNRQF1bEe-wvrQ9JCydxA" borderSize="1" borderSizeComputationExpression="1" borderColor="91,64,64" backgroundStyle="GradientTopToBottom" backgroundColor="255,255,197" foregroundColor="247,218,116">
         <description xmi:type="style:FlatContainerStyleDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']/@ownedRepresentations[name='Operational%20Activity%20Interaction%20Blank']/@defaultLayer/@containerMappings[name='OAIB%20Operational%20Activity']/@style"/>
       </ownedStyle>
       <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/oa.odesign#//@ownedViewpoints[name='Operational%20Analysis']/@ownedRepresentations[name='Operational%20Activity%20Interaction%20Blank']/@defaultLayer/@containerMappings[name='OAIB%20Operational%20Activity']"/>

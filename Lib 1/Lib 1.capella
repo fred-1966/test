@@ -46,6 +46,8 @@
             id="d9db0018-c1bc-4642-9f43-5fc9aaa98b77" name="Root Operational Activity">
           <ownedFunctions xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
               id="86a1531b-f420-4e2c-bdf3-6555c464ccc8" name="OperationalActivity 1"/>
+          <ownedFunctions xsi:type="org.polarsys.capella.core.data.oa:OperationalActivity"
+              id="ec97d05f-d781-405b-90e2-43b3e89133a7" name="OperationalActivity 2"/>
         </ownedOperationalActivities>
       </ownedFunctionPkg>
       <ownedAbstractCapabilityPkg xsi:type="org.polarsys.capella.core.data.oa:OperationalCapabilityPkg"
