@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<org.eclipse.emf.diffmerge.bridge.traces.gen:Trace xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.emf.diffmerge.bridge.traces.gen="http://www.eclipse.org/emf/diffmerge/bridge/1.0.0/traces">
+  <targetToCause key="1f081855-1aa0-4577-a1ca-b92bee63272e" value="Source[_dESzoMkiEee8KsfWrp9EJQ]_Rule[Module]|_dESzoMkiEee8KsfWrp9EJQ"/>
+  <targetToCause key="da7696c2-9f8f-4ecd-b66a-4c0dc0b40164" value="Source[_xen_QMkhEee8KsfWrp9EJQ]_Rule[Requirement]|_xen_QMkhEee8KsfWrp9EJQ"/>
+  <targetToCause key="55a13be9-2fc3-4c50-a32e-76c1840ba21e" value="Source[_xen_QMkhEee8KsfWrp9EJQ]_Rule[Requirement]|_25YvEMkyEee5A_N9aQFa1w._xen_QMkhEee8KsfWrp9EJQ"/>
+  <targetToCause key="50e1fd80-f690-42d3-ad8c-8902c69f36de" value="Source[_xen_QMkhEee8KsfWrp9EJQ]_Rule[Requirement]|_0VDX0Mk3Eee5A_N9aQFa1w._xen_QMkhEee8KsfWrp9EJQ"/>
+  <targetToCause key="c1813ee8-282f-4c66-b225-026c6d705aab" value="Source[_i6FNMMkgEee8KsfWrp9EJQ]_Rule[TypeDefinition]|_i6FNMMkgEee8KsfWrp9EJQ"/>
+  <targetToCause key="c9477e54-c83c-45d7-89d4-69b57b520ae6" value="Source[_ahyOEMk3Eee5A_N9aQFa1w]_Rule[TypeDefinition]|_ahyOEMk3Eee5A_N9aQFa1w"/>
+  <targetToCause key="5670ab47-7375-4688-bd17-37476fd330b7" value="Source[_ahyOEMk3Eee5A_N9aQFa1w]_Rule[TypeDefinition]|_gXZ9oMk3Eee5A_N9aQFa1w"/>
+  <targetToCause key="d8f64863-ff25-46f1-b34a-e2c65c6a800d" value="Source[_ahyOEMk3Eee5A_N9aQFa1w]_Rule[TypeDefinition]|_hGeDEMk3Eee5A_N9aQFa1w"/>
+  <targetToCause key="ff82beb1-7b4f-4f62-a638-68d86f8d33c3" value="Source[_ahyOEMk3Eee5A_N9aQFa1w]_Rule[TypeDefinition]|_hZP1IMk3Eee5A_N9aQFa1w"/>
+  <targetToCause key="06af4fe1-de89-452c-92bb-412ea1f359e2" value="Source[_LaeSsMkhEee8KsfWrp9EJQ]_Rule[Type]|_LaeSsMkhEee8KsfWrp9EJQ"/>
+  <targetToCause key="b2478ad9-fe76-48e3-bf3b-66c370b9eb2a" value="Source[_LaeSsMkhEee8KsfWrp9EJQ]_Rule[Type]|_25YvEMkyEee5A_N9aQFa1w"/>
+  <targetToCause key="605ac98a-501f-4da3-994b-096c0eacc162" value="Source[_LaeSsMkhEee8KsfWrp9EJQ]_Rule[Type]|_0VDX0Mk3Eee5A_N9aQFa1w"/>
+  <targetToCause key="eeb6618c-06d0-46cd-b57b-be2dabe9ff82" value="Source[_NAXScMkhEee8KsfWrp9EJQ]_Rule[Type]|_NAXScMkhEee8KsfWrp9EJQ"/>
+</org.eclipse.emf.diffmerge.bridge.traces.gen:Trace>

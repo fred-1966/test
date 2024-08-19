@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata:Metadata xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:metadata="http://www.polarsys.org/kitalpha/ad/metadata/1.0.0" id="_66UEYFrcEe-HK-XQKB7VBA">
   <viewpointReferences id="_66lxMFrcEe-HK-XQKB7VBA" vpId="org.polarsys.capella.core.viewpoint" version="7.0.0"/>
+  <viewpointReferences id="_t4BSUF3HEe-5D9mt_Not-A" vpId="org.polarsys.capella.basic.requirement" version="1.0.0"/>
+  <viewpointReferences id="_vDF-UF3HEe-5D9mt_Not-A" vpId="org.polarsys.kitalpha.vp.requirements" version="0.14.0"/>
+  <viewpointReferences id="_vElzIF3HEe-5D9mt_Not-A" vpId="org.polarsys.capella.vp.requirements" version="0.14.0"/>
+  <viewpointReferences id="_v0-HMF3HEe-5D9mt_Not-A" vpId="org.polarsys.capella.cybersecurity" version="2.2.0"/>
+  <viewpointReferences id="_wpqTgF3HEe-5D9mt_Not-A" vpId="org.polarsys.capella.filtering" version="1.7.0"/>
 </metadata:Metadata>

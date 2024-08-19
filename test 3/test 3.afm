@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata:Metadata xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:metadata="http://www.polarsys.org/kitalpha/ad/metadata/1.0.0" id="_k6BosFlKEe-IIoDFs2tUWw">
   <viewpointReferences id="_k6SHYFlKEe-IIoDFs2tUWw" vpId="org.polarsys.capella.core.viewpoint" version="7.0.0"/>
+  <viewpointReferences id="_BCyhwFodEe-Rjc4svQsIIw" vpId="org.polarsys.capella.cybersecurity" version="2.2.0"/>
+  <viewpointReferences id="_Cq6WIFodEe-Rjc4svQsIIw" vpId="org.polarsys.capella.filtering" version="1.7.0"/>
+  <viewpointReferences id="_EPRr4FodEe-Rjc4svQsIIw" vpId="org.polarsys.capella.basic.requirement" version="1.0.0"/>
+  <viewpointReferences id="_j-WFsFodEe-Rjc4svQsIIw" vpId="org.polarsys.kitalpha.vp.requirements" version="0.14.0"/>
+  <viewpointReferences id="_j_490FodEe-Rjc4svQsIIw" vpId="org.polarsys.capella.vp.requirements" version="0.14.0"/>
+  <additionalMetadata href="../Lib%201/Lib%201.afm#_1SxYgFnpEe-ybdhBP5pzDQ"/>
+  <additionalMetadata href="../Iib%202/Iib%202.afm#_8OAdkFnvEe-ybdhBP5pzDQ"/>
 </metadata:Metadata>
